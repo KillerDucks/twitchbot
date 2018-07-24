@@ -55,3 +55,31 @@ Channel: #nebhay || User: speedoflightpen || Message: if not use
 Channel: #nebhay || User: speedoflightpen || Message: git remote add upstream
 Channel: #nebhay || User: speedoflightpen || Message: followed by the git link
 Channel: #nebhay || User: speedoflightpen || Message: okay
+Channel: #nebhay || User: undefined || Message: Hello, I am connected to the chat!
+Channel: #nebhay || User: speedoflightpen || Message: its my bot user
+Channel: #nebhay || User: 73cn0109y || Message: I wonder who you have a crush on Kappa
+Channel: #nebhay || User: speedoflightpen || Message: send to what
+Channel: #nebhay || User: speedoflightpen || Message: client(dot)say
+Channel: #nebhay || User: speedoflightpen || Message: woah
+Channel: #nebhay || User: speedoflightpen || Message: you do have a channel
+Channel: #nebhay || User: speedoflightpen || Message: options(dot).channels[0]
+Channel: #nebhay || User: speedoflightpen || Message: it works
+Channel: #nebhay || User: speedoflightpen || Message: that how i did it
+Channel: #nebhay || User: speedoflightpen || Message: You dont really need it to say anything
+Channel: #nebhay || User: speedoflightpen || Message: the connected is for internal logging
+Channel: #nebhay || User: nebhay || Message: [NBot] came online
+Channel: #nebhay || User: speedoflightpen || Message: @73CN0109y hahaha I wish I knew a Melissa
+Channel: #nebhay || User: 73cn0109y || Message: user might be undefined because it's a message sent from the bot itself
+Channel: #nebhay || User: 73cn0109y || Message: Functions katieOMG
+Channel: #nebhay || User: 73cn0109y || Message: GitHub katieOMG
+Channel: #nebhay || User: voerbak || Message: hey
+Channel: #nebhay || User: speedoflightpen || Message: This bleedingedge is gonna be something else
+Channel: #nebhay || User: 73cn0109y || Message: Still terrible indentations Kappa
+Channel: #nebhay || User: 73cn0109y || Message: You're making it worse WutFace
+Channel: #nebhay || User: 73cn0109y || Message: Just continue coding... Ignore the indentations katieLul
+Channel: #nebhay || User: 73cn0109y || Message: If you can read it... fuck everyone else katieSmart
+Channel: #nebhay || User: 73cn0109y || Message: katieNot
+Channel: #nebhay || User: 73cn0109y || Message: env katieOMG
+Channel: #nebhay || User: speedoflightpen || Message: I changed the dotenv in bleedingedge
+Channel: #nebhay || User: speedoflightpen || Message: used a slightly easier way
+Channel: #nebhay || User: nebhay || Message: [NBot] came online

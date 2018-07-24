@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "app-root-path": "^2.1.0",
+    "tmi.js": "^1.2.1"
   }
 }
