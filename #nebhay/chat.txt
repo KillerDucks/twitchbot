@@ -1,0 +1,57 @@
+Channel: #nebhay || User: nebhay || Message: g
+Channel: #nebhay || User: nebhay || Message: 2
+Channel: #nebhay || User: nebhay || Message: test
+Channel: #nebhay || User: speedoflightpen || Message: You probs should of made these functions async
+Channel: #nebhay || User: speedoflightpen || Message: also btw u might want to turn up your mic
+Channel: #nebhay || User: speedoflightpen || Message: the music is louder than you
+Channel: #nebhay || User: speedoflightpen || Message: there we go
+Channel: #nebhay || User: speedoflightpen || Message: not going with a NoSQL or other db implementation
+Channel: #nebhay || User: speedoflightpen || Message: Easier to query later on
+Channel: #nebhay || User: speedoflightpen || Message: its not about mass data but looking up a text file and looping through is a bad idea
+Channel: #nebhay || User: speedoflightpen || Message: from a programmers perspective
+Channel: #nebhay || User: speedoflightpen || Message: Just food for thought
+Channel: #nebhay || User: speedoflightpen || Message: also there is a easier way to use console.log()
+Channel: #nebhay || User: speedoflightpen || Message: rip
+Channel: #nebhay || User: speedoflightpen || Message: no im talking about passing in variables
+Channel: #nebhay || User: speedoflightpen || Message: use the new way
+Channel: #nebhay || User: speedoflightpen || Message: `words ${varName} other words`
+Channel: #nebhay || User: speedoflightpen || Message: no need for pluses
+Channel: #nebhay || User: speedoflightpen || Message: yea
+Channel: #nebhay || User: speedoflightpen || Message: you need to start with a `
+Channel: #nebhay || User: speedoflightpen || Message: not "
+Channel: #nebhay || User: speedoflightpen || Message: your using '
+Channel: #nebhay || User: speedoflightpen || Message: not ` lmao
+Channel: #nebhay || User: speedoflightpen || Message: copy mine from chat
+Channel: #nebhay || User: speedoflightpen || Message: no back one
+Channel: #nebhay || User: speedoflightpen || Message: they are the same
+Channel: #nebhay || User: speedoflightpen || Message: works for all strings btw
+Channel: #nebhay || User: nebhay || Message: test
+Channel: #nebhay || User: speedoflightpen || Message: You got a github for this or are you not using source controll?
+Channel: #nebhay || User: speedoflightpen || Message: control*
+Channel: #nebhay || User: speedoflightpen || Message: Give it a push up
+Channel: #nebhay || User: speedoflightpen || Message: I'll do a pull req
+Channel: #nebhay || User: speedoflightpen || Message: create the file
+Channel: #nebhay || User: speedoflightpen || Message: then add the files and folders to ignore
+Channel: #nebhay || User: speedoflightpen || Message: also add your credential file
+Channel: #nebhay || User: speedoflightpen || Message: oh okay
+Channel: #nebhay || User: speedoflightpen || Message: make sure to ignore the node_modules
+Channel: #nebhay || User: speedoflightpen || Message: put a dot
+Channel: #nebhay || User: speedoflightpen || Message: infront
+Channel: #nebhay || User: speedoflightpen || Message: lol
+Channel: #nebhay || User: speedoflightpen || Message: create another branch while you at it call it bleedingedge
+Channel: #nebhay || User: speedoflightpen || Message: so i can put my pull req in a diffrent branch
+Channel: #nebhay || User: speedoflightpen || Message: remove the (dot)/
+Channel: #nebhay || User: speedoflightpen || Message: try again
+Channel: #nebhay || User: speedoflightpen || Message: and the slash
+Channel: #nebhay || User: speedoflightpen || Message: Commit
+Channel: #nebhay || User: speedoflightpen || Message: whats your username or can u post a link
+Channel: #nebhay || User: speedoflightpen || Message: commit again
+Channel: #nebhay || User: speedoflightpen || Message: then sync it
+Channel: #nebhay || User: speedoflightpen || Message: create it
+Channel: #nebhay || User: speedoflightpen || Message: then add the upstream
+Channel: #nebhay || User: speedoflightpen || Message: yea
+Channel: #nebhay || User: speedoflightpen || Message: try to sync again
+Channel: #nebhay || User: speedoflightpen || Message: if not use
+Channel: #nebhay || User: speedoflightpen || Message: git remote add upstream
+Channel: #nebhay || User: speedoflightpen || Message: followed by the git link
+Channel: #nebhay || User: speedoflightpen || Message: okay
